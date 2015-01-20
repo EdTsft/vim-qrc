@@ -8,6 +8,8 @@ if (exists('b:current_syntax') && b:current_syntax == 'qrc')
     finish
 endif
 
+
+
 if (!exists('b:current_syntax'))
     let b:current_syntax = 'qrc'
 endif
