@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.qrc set filetype=xml
+au BufRead,BufNewFile *.qrc setfiletype xml

@@ -24,6 +24,6 @@ Using _neobundle_
 
 **Goals** of the plugin:
 
-1. Syntax highlight
+1. Syntax highlight with ftdetect as XML
 2. Simple path's clone with all variants (qrc, url...)
 3. Direct control of directories to extend simply qrc files.
