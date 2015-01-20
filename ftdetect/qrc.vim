@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.qrc setfiletype xml
+au BufNewFile,BufRead *.qrc set filetype=xml
