@@ -8,17 +8,17 @@ Using _pathogen_
 [pathogen.vim](https://github.com/tpope/vim-pathogen).
     
     cd ~/.vim/bundle
-    git clone git@github.com:FiloSpaTeam/vim-qrc.git
+    git clone git@github.com:EdTsft/vim-qrc.git
 
 Using _vundle_
 [Vundle.vim](https://github.com/gmarik/Vundle.vim).
 
-    Plugin 'FiloSpaTeam/vim-qrc'
+    Plugin 'EdTsft/vim-qrc'
 
 Using _neobundle_
 [Neobundle.vim](https://github.com/Shougo/neobundle.vim).
 
-    NeoBundle 'FiloSpaTeam/vim-qrc'
+    NeoBundle 'EdTsft/vim-qrc'
 
 ## Goals
 
